@@ -12,3 +12,4 @@ autocomplete-plus
 autoclose-html
 linter-php
 autocomplete-paths
+tablr
