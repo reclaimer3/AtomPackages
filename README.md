@@ -13,3 +13,4 @@ autoclose-html
 linter-php
 autocomplete-paths
 tablr
+open-terminal-here
