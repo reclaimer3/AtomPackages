@@ -14,3 +14,6 @@ linter-php
 autocomplete-paths
 tablr
 open-terminal-here
+linter-csslint
+linter-sass-lint
+linter-scss-lint
