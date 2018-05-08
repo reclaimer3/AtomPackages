@@ -19,3 +19,4 @@ linter-sass-lint
 linter-scss-lint
 pigments
 custom-title
+remote-ftp
