@@ -20,3 +20,4 @@ linter-scss-lint
 pigments
 custom-title
 remote-ftp
+cursor-history
